@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/prateekfr/Kidney_Disease_Classification_DL
+Author: prateekfr
+Author-email: prateekmaithil1572@gmail.com
+Project-URL: Bug Tracker, https://github.com/prateekfr/Kidney_Disease_Classification_DL/issues
+License-File: LICENSE
+
+# Kidney_Disease_Classification_DL

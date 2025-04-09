@@ -37,3 +37,38 @@ conda activate cnncls
 pip install -r requirements.txt
 ```
 
+
+
+
+
+
+
+
+
+## MLflow
+
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/prateekfr/Kidney_Disease_Classification_DL.mlflow \
+MLFLOW_TRACKING_USERNAME=prateekfr \
+MLFLOW_TRACKING_PASSWORD=2a167a98dafc8891ce0f6814cd76d630b48f701b \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/prateekfr/Kidney_Disease_Classification_DL.mlflow
+
+export MLFLOW_TRACKING_USERNAME=prateekfr 
+
+export MLFLOW_TRACKING_PASSWORD=2a167a98dafc8891ce0f6814cd76d630b48f701b
+
+```
